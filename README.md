@@ -4,7 +4,7 @@
 
 ---
 
-I'm a full-stack developer with a passion for building efficient, scalable applications from the ground up. My skill set spans modern frontend frameworks, powerful backend architectures, and data solutions, all optimized to create seamless digital experiences.
+A results-driven Senior Full Stack Developer with 5.5 years of professional experience in designing, implementing, and maintaining robust software solutions. Proven track record of optimizing system performance, improving architecture, and leading the development of innovative products. Adept at collaborating with cross-functional teams to deliver scalable, user-centric applications. Passionate about learning and applying new technologies to solve complex problems, with a strong focus on delivering high-quality results in fast-paced environments.
 
 ---
 
