@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Namdev Jagtap
 
-### Full-Stack Developer | Backend Architect | API Specialist
+### Full-Stack Developer | API Specialist
 
 ---
 
