@@ -1,0 +1,38 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="60%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#0f2744"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="20%" r="35%">
+      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:0"/>
+    </radialGradient>
+    <clipPath id="rounded">
+      <rect width="800" height="180" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <rect width="800" height="180" rx="12" ry="12" fill="url(#bg)"/>
+  <rect width="800" height="180" rx="12" ry="12" fill="url(#glow)" clip-path="url(#rounded)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="720" cy="30" r="80" fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="720" cy="30" r="55" fill="none" stroke="#818cf8" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Name -->
+  <text x="36" y="68" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="700" fill="#f1f5f9" letter-spacing="-0.5">Namdev Jagtap</text>
+
+  <!-- Role -->
+  <text x="38" y="98" font-family="'Courier New', Courier, monospace" font-size="14" fill="#38bdf8">Senior Full Stack Engineer · Team Lead</text>
+
+  <!-- Tagline -->
+  <text x="38" y="126" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">Building distributed systems at scale — push infrastructure, real-time pipelines &amp; microservices.</text>
+  <text x="38" y="144" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">6 years in the JS ecosystem + Go. Leading backend at CleverPush, Germany. Remote from Nashik, India.</text>
+
+  <!-- Dots -->
+  <circle cx="38" cy="165" r="5" fill="#38bdf8"/>
+  <circle cx="52" cy="165" r="5" fill="#818cf8"/>
+  <circle cx="66" cy="165" r="5" fill="#34d399"/>
+</svg>
